@@ -1,0 +1,17 @@
+msgid "plugins.generic.usersRoles.usersRoles"
+msgstr "Users & Roles"
+
+msgid "plugins.generic.usersRoles.empty"
+msgstr "No users or roles could be found"
+
+msgid "plugins.generic.usersRoles.username"
+msgstr "Username"
+
+msgid "plugins.generic.usersRoles.context"
+msgstr "Context"
+
+msgid "plugins.generic.usersRoles.role"
+msgstr "Role"
+
+msgid "plugins.generic.usersRoles.addRole"
+msgstr "Add Role"
